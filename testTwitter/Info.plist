@@ -58,5 +58,17 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>LSApplicationCategoryType</key>
+	<string>&lt;key&gt;CFBundleURLTypes&lt;/key&gt;
+    &lt;array&gt;
+        &lt;dict&gt;
+            &lt;key&gt;CFBundleURLName&lt;/key&gt;
+            &lt;string&gt;$(PRODUCT_BUNDLE_IDENTIFIER)&lt;/string&gt;
+            &lt;key&gt;CFBundleURLSchemes&lt;/key&gt;
+            &lt;array&gt;
+                &lt;string&gt;swifter-{hbr5odIl5HbkMKzUL8XCy4f5f}&lt;/string&gt;
+            &lt;/array&gt;
+        &lt;/dict&gt;
+    &lt;/array&gt;</string>
 </dict>
 </plist>
